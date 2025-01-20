@@ -20,8 +20,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 20px; align-items: center; justify-content: center">
+<h3 align="center">Connect with me:</h3>
+<p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center">
   <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
