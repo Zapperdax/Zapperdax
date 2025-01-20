@@ -23,13 +23,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="qasim-ahmed-5779281a3" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="qasim-ahmed-5779281a3" height="30" width="40" style="fill: #0077B5;" />
   </a>
   <a href="https://instagram.com/zapperdax" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="zapperdax" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="zapperdax" height="30" width="40" style="fill: #E4405F;" />
   </a>
   <a href="https://discord.gg/3mtr9FbGRy" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" height="30" width="40" style="fill: #5865F2;" />
   </a>
 </p>
 
