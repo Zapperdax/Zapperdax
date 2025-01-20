@@ -20,16 +20,16 @@
 
 ---
 
-<h2>📫 Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="qasim-ahmed-5779281a3" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/zapperdax" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://instagram.com/zapperdax" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="zapperdax" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/3mtr9FbGRy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" height="40" width="40" />
+  <a href="https://discord.gg/3mtr9FbGRy" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="discord" height="30" width="40" />
   </a>
 </p>
 
