@@ -20,17 +20,17 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qasim-ahmed-5779281a3" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/zapperdax" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zapperdax" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/https://discord.gg/3mtr9FbGRy" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3mtr9FbGRy" height="30" width="40" />
-    </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/zapperdax" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://discord.gg/3mtr9FbGRy" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
+  </a>
 </p>
 
 ---
