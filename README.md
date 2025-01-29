@@ -1,9 +1,5 @@
 <h1 align="center">A Passionate Software Engineer</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zapperdax&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 <p align="center">
@@ -142,4 +138,8 @@
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zapperdax&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zapperdax&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
