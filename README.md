@@ -1,7 +1,5 @@
 <h1 align="center">A Passionate Software Engineer</h1>
 
----
-
 <h2 align="center">🌟 About Me 🌟</h2>
 <p align="center">I'm a dedicated software engineer with a passion for building innovative solutions, exploring cutting-edge technologies, and solving complex problems.</p>
 
