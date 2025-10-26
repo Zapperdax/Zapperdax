@@ -1,11 +1,5 @@
 <h1 align="center">A Passionate Software Engineer</h1>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zapperdax&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">🌟 About Me 🌟</h2>
