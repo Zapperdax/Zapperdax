@@ -39,18 +39,24 @@ I am a dedicated software engineer who thrives at the intersection of **low-leve
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Metrics
 
-[![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zapperdax&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/zapperdax)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zapperdax&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapperdax&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zapperdax)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapperdax&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophy
-[![github contributors](https://github-profile-trophy.vercel.app/?username=zapperdax&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🐍 Contribution Journey
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zapperdax/zapperdax/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
----
+> **Note:** If the snake doesn't appear, you'll need to set up a quick [GitHub Action](https://github.com/Platane/snk) to generate it—let me know if you want the code for that!
 
 ### 🤝 Connect With Me
 <p align="left">
