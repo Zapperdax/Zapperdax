@@ -39,13 +39,6 @@ I am a dedicated software engineer who thrives at the intersection of **low-leve
 
 ---
 
-### 📊 Key Metrics
-![Commits](https://img.shields.io/github/commit-activity/y/zapperdax/zapperdax?style=for-the-badge&color=7289DA)
-![Repo Count](https://img.shields.io/github/directory-stats-count/zapperdax?style=for-the-badge&color=2496ED)
-![Top Language](https://img.shields.io/github/languages/top/zapperdax/zapperdax?style=for-the-badge&color=FCC624)
-
----
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="_blank">
