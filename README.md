@@ -39,25 +39,6 @@ I am a dedicated software engineer who thrives at the intersection of **low-leve
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zapperdax&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zapperdax&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
-</p>
-
----
-
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zapperdax/zapperdax/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-> **Note:** If the snake doesn't appear, you'll need to set up a quick [GitHub Action](https://github.com/Platane/snk) to generate it—let me know if you want the code for that!
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/qasim-ahmed-5779281a3" target="_blank">
