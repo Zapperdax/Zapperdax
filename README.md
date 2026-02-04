@@ -40,10 +40,15 @@ I am a dedicated software engineer who thrives at the intersection of **low-leve
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zapperdax&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapperdax&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+[![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zapperdax&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/zapperdax)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zapperdax&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/zapperdax)
+
+---
+
+### 🏆 GitHub Trophy
+[![github contributors](https://github-profile-trophy.vercel.app/?username=zapperdax&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
